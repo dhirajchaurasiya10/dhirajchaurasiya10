@@ -11,8 +11,10 @@
 
 
 ## Reach out to me:  
-<div align="left"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-<a href="https://www.linkedin.com/in/binod-subedi-3238a7234/" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/dhiraj-chaurasiya-226817314/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.x.com/Dhiraj670/" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo"  />
-<a href="https://www.linkedin.com/in/binod-subedi-3238a7234/" target="_blank">
+
 </div>
